@@ -1,5 +1,5 @@
 #include <iostream>
-#include "truth.h"
+#include "trust.h"
 
 int main(){
     int size;
